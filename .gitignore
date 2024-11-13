@@ -36,3 +36,5 @@ codegen/
 .buildtool/
 
 .session/
+
+doc/
